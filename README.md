@@ -28,7 +28,7 @@ Concatenation: Combines individual sample counts into a unified dataset.
 
 ## Repository Structure
 
-
+![Project_1_RNA-Seq_BF528_BU](images/workflow.png)
 
 ## Requirements
 
