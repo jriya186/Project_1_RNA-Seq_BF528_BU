@@ -55,3 +55,11 @@ Differential expression analysis (DESeq2)
 Gene Set Enrichment Analysis (fgsea)
 
 Open the R Markdown notebook to explore and reproduce the analysis steps.
+
+## Acknowledgements
+
+The data used to develop, tune and validate this pipeline came from the following publication:
+
+Chandra, V., Ibrahim, H., Halliez, C. et al. The type 1 diabetes gene TYK2 regulates β-cell development and its responses to interferon-α. Nat Commun 13, 6363 (2022). https://doi.org/10.1038/s41467-022-34069-z
+
+The Week3 analysis Rmd includes discussion related to the same.
